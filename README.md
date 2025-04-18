@@ -8,6 +8,7 @@ A curated list of everything related to SiliconTechnix digital agency.
 - [SEO & Marketing](#seo--marketing)
 - [Client Testimonials / Case Examples](#client-testimonials--case-examples)
 - [Connect With Us](#connect-with-us)
+
 A curated list of everything related to **SiliconTechnix**, a UK-based digital consultancy firm specializing in web design, development, SEO, and digital marketing. We turn your ideas into clean, high-performing websites and applications.
 
 ## About SiliconTechnix [https://silicontechnix.co.uk/](https://silicontechnix.co.uk/)
