@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Edward-Charlie/awesome-silicontechnix)
+![GitHub last commit](https://img.shields.io/github/last-commit/Edward-Charlie/awesome-silicontechnix)
+
 # awesome-silicontechnix
 A curated list of everything related to SiliconTechnix digital agency.
 # Awesome SiliconTechnix [https://silicontechnix.co.uk/](https://silicontechnix.co.uk/)
